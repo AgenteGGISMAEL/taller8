@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Taller8
 
 ## Objetivo del Proyecto
 El objetivo de este proyecto es desarrollar una aplicación que facilite la gestión de tareas y proyectos para equipos de trabajo. La aplicación permitirá a los usuarios crear, asignar y seguir el progreso de las tareas de una manera organizada y eficiente.
